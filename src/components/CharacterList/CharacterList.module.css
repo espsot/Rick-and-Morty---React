@@ -1,0 +1,12 @@
+.CharacterList {
+    min-height: 98vh;
+    min-width: 98vw;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

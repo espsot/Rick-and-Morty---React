@@ -1,0 +1,26 @@
+.characterInfo {
+    max-height: 90vh;
+    max-width: 35vw;
+    min-width: 35vw;
+    min-height: 70vh;
+    background-color: rgb(55, 54, 61);
+    border: 1px solid black;
+}
+
+.info {
+    color: white;
+}
+
+.imgbox {
+    margin-top: 2rem;
+    border: 1px solid white;
+}
+
+h1 {
+    color: white;
+}
+
+hr {
+    background-color: white;
+    width: 70%;
+}
